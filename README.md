@@ -1,6 +1,10 @@
 # tic
 
 A new Flutter project.
+## output
+
+![1713962638364](https://github.com/Tapendra-Bista/tictoc/assets/119024299/e1d5f102-e692-45f0-bdca-c6a14a9c121b)
+
 
 ## Getting Started
 
